@@ -17,7 +17,7 @@ GITHUB_FRIENDS_LINKS:
   type: normal
 HTTP_PROXY: false
 LINK:
-- link: https://blog-git-anzhiyu-jerry-zhous-projects.vercel.app/link/
+- link: https://blog.jerryz.com.cn/link/
   theme: common2
 MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
