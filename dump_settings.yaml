@@ -1,6 +1,7 @@
 BLOCK_SITE:
 - https://links.jerryz.com.cn/go
 - https://www.travellings.cn/go.html
+- https://blog.shiina.fun/
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
